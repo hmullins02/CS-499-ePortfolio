@@ -12,7 +12,10 @@ Before compiling and running the code, ensure you have the following installed o
 
 Running the project
 
--	Create a Visal Studio project using the provided Debug and OpenGLSample folders within this repository branch.
+
+-	Create a Visal Studio project named Category 2 Enhancement - 3D Pyramid and Cube.
+-	Inside the project folder, the provided Debug and OpenGLSample folders within this repository branch should be used. Replace the Debug folder that's in there if there is one.
+-	If there is a .sln file, replace it with the OpenGLSample.sln provided in this repository.
 -	Ensure the solution platform is set to x86
  
 -	Click the “Start without Debugging” button to build and run the code. Pictures labeled "Display1" and "Display2" are examples of what will be shown on a successfuly run.
