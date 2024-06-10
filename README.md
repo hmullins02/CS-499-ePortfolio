@@ -12,8 +12,7 @@ Before compiling and running the code, ensure you have the following installed o
 
 Running the project
 
--	Unzip the Category 2 assignment project
--	Open the unzipped project in visual studio
+-	Create a Visal Studio project using the provided Debug and OpenGLSample folders within this repository branch.
 -	Ensure the solution platform is set to x86
  
 -	Click the “Start without Debugging” button to build and run the code. Pictures labeled "Display1" and "Display2" are examples of what will be shown on a successfuly run.
