@@ -14,9 +14,12 @@ Running the project
 
 
 -	Create a new empty C++ Visal Studio project named Category 2 Enhancement - 3D Pyramid and Cube.
--	Inside the project folder, the provided Debug and OpenGLSample folders within this repository branch should be used. Replace the Debug folder that's in there if there is one.
--	If there is a .sln file, replace it with the OpenGLSample.sln provided in this repository.
+-	Close Visual Studio and navigate to the project folder.
+-	Inside the project folder, delete the .sln file and generated folder.
+-	Unzip the "OpenGLSample.zip" provided from this repository.
+-	Add the unzipped folder to your new project folder.
+-	Add the OpenGLSample.sln file to your new project folder.
+-	Click on the OpenGLSample.sln file.
 -	Ensure the solution platform is set to x86
- 
--	Click the “Start without Debugging” button to build and run the code. Pictures labeled "Display1" and "Display2" are examples of what will be shown on a successfuly run.
+-	From Source.cpp, click the “Start without Debugging” button to build and run the code. Pictures labeled "Display1" and "Display2" are examples of what will be shown on a successfuly run.
    
