@@ -24,4 +24,4 @@ Running the project
 - Add the OpenGLSample.sln file to your new project folder.
 - Click on the OpenGLSample.sln file.
 - Ensure the solution platform is set to x86
-- From Source.cpp, click the “Start without Debugging” button to build and run the code. Pictures labeled "Display1" and "Display2" are examples of what will be shown on a successfuly run.
+- From Source.cpp, click the “Start without Debugging” button to build and run the code. Pictures labeled "Display1" and "Display2" are examples of what will be shown on a successfuly run. (For PRE enhancement, see "Display3")
