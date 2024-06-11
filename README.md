@@ -9,6 +9,7 @@ This portfolio demonstrates the skills I have developed while studying computer 
 ## Category I - Software Design and Engineering
 Artifacts for Category I: Software Design and Engineering
 * Atomic Mass Calculator Python to Java
+* Associated files:
 * Category One Enhancement Narrative.docx
 * Atomic Mass Calculator ORIGINAL.zip (Pre Enhancement)
 * Atomic Mass Calculator Enhanced FINAL.zip (Post Enhancement) <br>
@@ -19,7 +20,9 @@ TBD
 
 
 ## Category II - Algorithm and Data Structures
-Artifacts for Category II: Algorithm and Data Structures 
+Artifacts for Category II: Algorithm and Data Structures
+* OpenGL Automated Rotation and Color Changing Gradients 3D Pyramid and Cube
+* Associated files:
 * OpenGLSample.zip
 * OpenGLSample.sln
 * CATEGORY2README.md
@@ -35,10 +38,11 @@ TBD
 
 ## Category III - Database
 Artifacts for Category III: Database
-* Activity_database.xml
+* Atomic Mass Calculator Android Mobile Application
+* Associated files:
 * AndroidManifest.xml
 * Database.java
-* DatabaseHelper.java<br>
+* AtomicMassDatabaseHelper.java<br>
 
 	TBD
 
@@ -51,4 +55,4 @@ I have designed and evaluated computing solutions that solve a given problem usi
 
 I have demonstrated the ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals by employing iterative testing techniques in the code by using the software development life cycle to create realistic production schedules for software projects, creating industry-standard software designs, discussing experiences and best practices in using well-founded and innovative techniques, skills, and tools in computing practices.<br> 
 
-I have developed a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources by address potential design flaws in software architecture during the requirements phase (user permissions), eradicating security vulnerabilities or bugs by correcting all errors and addressing all warnings in the IDE, defining an approach that ensures all data are explicitly validated. When creating the “DatabaseHelper” class I demonstrated the ability to consider future changes to objects and classes by making all methods reside in it. Now when adding more activities that want to interface with the database there is a common structure that is designed to manage these methods and keep them all in one place, instead of creating new classes that must be updated whenever a new class is added. 
+I have developed a security mindset through addressing potential design flaws in software architecture, eradicating security vulnerabilities or bugs by correcting all errors and addressing all warnings in the IDE, defining an approach that ensures all data are validated. When creating the “AtomicMassDatabaseHelper” class I demonstrated the ability to consider future changes to objects and classes by making all methods reside in it. Now when adding more activities that want to interface with the database there is a common structure that is designed to manage these methods and keep them all in one place. 
