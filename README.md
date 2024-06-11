@@ -4,6 +4,16 @@ This portfolio demonstrates the skills I have developed while studying computer 
 
 ## Professional Self-Assessment<br>
 
+## Introduction
+Completing my coursework and developing my ePortfolio has profoundly impacted my readiness to enter the computer science field. This journey has allowed me to showcase my strengths, refine my professional goals and values, and build a skill set that makes me an attractive candidate for various roles in the industry. By engaging with complex projects and real-world scenarios, I have honed my abilities in several critical areas, including collaboration, communication, data structures, algorithms, software engineering, database management, and security. <br>
+
+## Collaborating in a Team Environment
+Working in team environments has been a cornerstone of my development. For instance, during a software engineering course specializing in SDLC, I collaborated with peers to develop comprehensive project management tools. This experience taught me the importance of clear communication, role delegation, and iterative development. We used agile methodologies to ensure that all team members were on the same page and that the project progressed smoothly. <br>
+
+## Communicating with Stakeholders
+Effective communication with stakeholders is crucial in any project. Looking outside of my schooling and into my professionaly experience, I am often a stakeholder, and even more often have to win over stakeholders as a manufacturing engineer technician. Recently we implemented a new automated system that many manufacturing operators did not like the idea of. Through effective communication and explanation of the benefits of the new system, there was more interest from the stakeholders in the new system. Fostering good relationships with stakeholders is vital for project success.<br>
+
+## Data Structures and Algorithms
 
 
 ## Category I - Software Design and Engineering
