@@ -34,6 +34,8 @@ Artifacts for Category I: Software Design and Engineering
 * Atomic Mass Calculator ORIGINAL.zip (Pre Enhancement)
 * Atomic Mass Calculator Enhanced FINAL.zip (Post Enhancement) <br>
 
+Post enhancment .zip file can be unzipped and opened on any Java IDE. I personally used IntelliJ to create this project.
+
 The artifact is an Atomic Mass Calculator, initially created in Python during my high school years. It is a command-line application that calculates the total atomic mass of a set of chemical elements based on user input. The original Python version was a simple script that took the user’s input for up to three elements and their quantities, then computed the total atomic mass. I selected this item for inclusion in my ePortfolio because it demonstrates my ability to transition from basic programming in Python to more complex and structured software development in Java. This artifact showcases my skills in converting and enhancing a program from one language to another, a valuable skill in software development.
 <br>
 
@@ -59,6 +61,7 @@ The artifact is a C++ OpenGL program that renders a 3D scene featuring a rotatin
 Artifacts for Category III: Database
 * Atomic Mass Calculator Android Mobile Application
 * Associated files:
+*  Atomic Mass Calculator Enhanced FINAL.zip (This is the final enhanced version for Category 1, but is considered pre-enhancement for Category 3)
 * AndroidManifest.xml
 * Database.java
 * AtomicMassDatabaseHelper.java<br>
