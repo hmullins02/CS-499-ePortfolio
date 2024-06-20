@@ -2,7 +2,7 @@
 
 This portfolio demonstrates the skills I have developed while studying computer sciences at SNHU. Here is the github link to view project artifacts: https://github.com/hmullins02/CS-499-ePortfolio <br>
 
-##Code Review<br>
+## Code Review<br>
 https://youtu.be/39HWs_6SoI8 <br>
 
 ## Professional Self-Assessment<br>
