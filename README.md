@@ -2,10 +2,10 @@
 
 This portfolio demonstrates the skills I have developed while studying computer sciences at SNHU. Here is the github link to view project artifacts: https://github.com/hmullins02/CS-499-ePortfolio <br>
 
-## Code Review<br>
+## Code Review
 https://youtu.be/39HWs_6SoI8 <br>
 
-## Professional Self-Assessment<br>
+## Professional Self-Assessment
 
 ## Introduction
 Completing my coursework and developing my ePortfolio has profoundly impacted my readiness to enter the computer science field. This journey has allowed me to showcase my strengths, refine my professional goals and values, and build a skill set that makes me an attractive candidate for various roles in the industry. By engaging with complex projects and real-world scenarios, I have honed my abilities in several critical areas, including collaboration, communication, data structures, algorithms, software engineering, database management, and security. <br>
