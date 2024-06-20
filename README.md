@@ -61,10 +61,10 @@ The artifact is a C++ OpenGL program that renders a 3D scene featuring a rotatin
 Artifacts for Category III: Database
 * Atomic Mass Calculator Android Mobile Application
 * Associated files:
-*  Atomic Mass Calculator Enhanced FINAL.zip (This is the final enhanced version for Category 1, but is considered pre-enhancement for Category 3)
-* AndroidManifest.xml
-* Database.java
-* AtomicMassDatabaseHelper.java<br>
+* Atomic Mass Calculator Enhanced FINAL.zip (This is the final enhanced version for Category 1, but is considered pre-enhancement for Category 3)
+* Category3DatabaseAtomicMassCalc.zip<br>
+
+Post enhancement .zip file can be unzipped and opened with Android Studio. I personally used Android Studio Iguana. For an emulator device, I used a Pixel mobile phone. <br>
 
 	The artifact is an unpublished mobile application called "Atomic Mass Calculator," initially created as a simple Python script during my high school years and used as my Category One artifact. This script was later converted to Java and further enhanced to become a functional Android Studio application. The enhanced version utilizes databases to store atomic mass values and sort based on different criteria. The Atomic Mass Calculator mobile app is an excellent artifact to include in my ePortfolio because it shows my ability to transform a complex scientific tool into a user-friendly mobile application utilizing databases. This project showcases several key aspects of my software development skills and demonstrates my proficiency in a variety of technical and design areas. I chose this project because it combines a range of skills necessary for a modern software developer, including front-end design, back-end database management, JSON parsing, user interface (UI) design, and Android application development. The complexity and comprehensiveness of this project make it an ideal showcase of my capabilities and knowledge. <br>
 
