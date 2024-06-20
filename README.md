@@ -51,7 +51,7 @@ Artifacts for Category II: Algorithm and Data Structures
 * Associated files:
 * OpenGLSample.zip
 * OpenGLSample.sln
-* CATEGORY2README.md
+* CATEGORY2README.md (USE THIS DOCUMENT FOR PROJECT RUN INSTRUCTIONS)
 * Category Two Enhancement Narrative.docx
 * OpenGLSamplePRE.zip
 * Display1.jpg
