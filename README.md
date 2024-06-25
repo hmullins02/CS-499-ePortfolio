@@ -1,6 +1,8 @@
 # Computer Science Capstone
 
-This portfolio demonstrates the skills I have developed while studying computer sciences at SNHU. Here is the github link to view project artifacts: https://github.com/hmullins02/CS-499-ePortfolio 
+This portfolio demonstrates the skills I have developed while studying computer sciences at SNHU. Here is the link to github pages: https://hmullins02.github.io/CS-499-ePortfolio/
+
+Here is the github link to view project artifacts: https://github.com/hmullins02/CS-499-ePortfolio 
 
 I have also started a professional/educational ePorfolio on https://www.datascienceportfol.io/hayleymullins <br>
 
