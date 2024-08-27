@@ -6,9 +6,6 @@ Here is the github link to view project artifacts: https://github.com/hmullins02
 
 I have also started a professional/educational ePorfolio on https://www.datascienceportfol.io/hayleymullins <br>
 
-## Code Review
-https://youtu.be/39HWs_6SoI8 <br>
-
 ## Professional Self-Assessment
 
 ## Introduction
